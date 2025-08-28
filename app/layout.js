@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`antialiased ${commissioner.className} `}
+        className={`antialiased ${commissioner.className} text-lg/8 md:text-xl/8`}
       >
         {children}
       </body>
