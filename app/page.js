@@ -10,7 +10,7 @@ export default function Home() {
       </header>
       <main className="md:w-[48rem] lg:w-[64rem] w-full mx-auto px-4 py-12 space-y-6">
         <section className="bg-white dark:bg-blue-950 p-8 rounded-xl shadow-md">
-          <Image src="/QEF_logo.svg" alt="Quality Education Fund Logo" width={350} height={100} className="mb-4 mx-auto" />
+          <Image src="/QEF_logo.png" alt="Quality Education Fund Logo" width={350} height={100} className="mb-4 mx-auto" />
           <h2 className="text-2xl/8 md:text-3xl/8 font-semibold mb-4 text-indigo-700 dark:text-indigo-500">About the Quality Education Fund (QEF)</h2>
           <p>
             The Quality Education Fund (QEF) has dedicated $500 million to launch the <a href="https://elafp.edb.edcity.hk/projects.php?lang=en" className="text-blue-500 hover:underline">e-Learning Ancillary Facilities Programme (eLAFP)</a>. This initiative aims to enhance e-learning by providing schools with quality ancillary facilities. It focuses on fostering collaboration among key stakeholders, including the school sector, tertiary institutions, educational and professional organizations, and the business community.
